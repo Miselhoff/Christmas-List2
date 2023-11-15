@@ -1,0 +1,99 @@
+.banner {
+	position: fixed;
+	top: 220px;
+	left: 200px;
+	background-color: #292929;
+	color: #292929;
+	height: 10px;
+	width: 1500px;
+}
+
+.content {
+	position: fixed;
+	top: 250px;
+	left: 220px;
+	height: 600px;
+	width: 1400px;
+	color: #292929;
+	font-size: 38px;
+}
+
+.menu {
+	position: fixed;
+	top: 900px;
+	left: 1470px;
+	color: #292929;
+	font-size: 24px;
+	z-index: 2;
+}
+
+.footer {
+	position: fixed;
+	top: 890px;
+	left: 200px;
+	color: #292929;
+	height: 70px;
+	width: 1500px;
+	font-size: 24px;
+	border-top-width: 10px;
+	border-top-style: solid;
+	z-index: 1;
+}
+
+.veronicasection {
+	position: fixed;
+	top: 700px;
+	left: 200px;
+	color: #292929;
+	height: 70px;
+	width: 1500px;
+	border-top-width: 10px;
+	border-top-style: solid;
+	z-index: 1;
+	font-size: 25px;
+	padding-left; 20px;
+}
+
+#paddingleft {
+	padding-left; 20px;
+}
+#christmastree {
+	position: fixed;
+	top: 30px;
+	left: 400px;
+	width: auto;
+	height: 180px;
+}
+
+#paddingbot {
+	margin: 15px;
+}
+
+#paddingbanner {
+	position: fixed;
+	top: 130px;
+	left: 740px;
+	font-family: georgia;
+	word-spacing: px;
+	font-size: 48px;
+}
+
+#textwrap {
+	border: 5px solid #292929;
+	max-width: 500px;
+	float: right;
+	margin-left: 10px;
+	font-size: 38px;
+}
+
+a {
+	color: #292929;
+}
+
+body {
+	background-color: #616161;
+}
+
+hr {
+	border-color: #292929;
+}
